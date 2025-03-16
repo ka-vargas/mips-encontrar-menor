@@ -1,4 +1,4 @@
-# Comparación de Números para Encontrar el Menor (Ensamblador MIPS)
+# Comparación de Números para Encontrar el Menor en Ensamblador MIPS
 
 Este programa en Ensamblador MIPS permite al usuario ingresar entre 3 y 5 números y luego determina cuál es el número menor de los ingresados.
 
